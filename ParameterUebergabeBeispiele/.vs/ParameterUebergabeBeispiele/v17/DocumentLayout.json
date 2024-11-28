@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF368C-5663-446B-BF0D-0092E057F7A8}|ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele.vcxproj|D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\SwapCallByReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34DF368C-5663-446B-BF0D-0092E057F7A8}|ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele.vcxproj|solutionrelative:ParameterUebergabeBeispiele\\SwapCallByReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF368C-5663-446B-BF0D-0092E057F7A8}|ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele.vcxproj|D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\SwapCallByValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34DF368C-5663-446B-BF0D-0092E057F7A8}|ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele.vcxproj|solutionrelative:ParameterUebergabeBeispiele\\SwapCallByValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF368C-5663-446B-BF0D-0092E057F7A8}|ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele.vcxproj|D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\BeispielAddCallByValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34DF368C-5663-446B-BF0D-0092E057F7A8}|ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele.vcxproj|solutionrelative:ParameterUebergabeBeispiele\\BeispielAddCallByValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeispielAddCallByValue.cpp",
+              "DocumentMoniker": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\BeispielAddCallByValue.cpp",
+              "RelativeDocumentMoniker": "ParameterUebergabeBeispiele\\BeispielAddCallByValue.cpp",
+              "ToolTip": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\BeispielAddCallByValue.cpp",
+              "RelativeToolTip": "ParameterUebergabeBeispiele\\BeispielAddCallByValue.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T09:07:56.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwapCallByValue.cpp",
+              "DocumentMoniker": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\SwapCallByValue.cpp",
+              "RelativeDocumentMoniker": "ParameterUebergabeBeispiele\\SwapCallByValue.cpp",
+              "ToolTip": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\SwapCallByValue.cpp",
+              "RelativeToolTip": "ParameterUebergabeBeispiele\\SwapCallByValue.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T09:07:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwapCallByReference.cpp",
+              "DocumentMoniker": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\SwapCallByReference.cpp",
+              "RelativeDocumentMoniker": "ParameterUebergabeBeispiele\\SwapCallByReference.cpp",
+              "ToolTip": "D:\\NextCloud\\Privat\\Bewerbung\\6_FH Rosenheim Autonome Robotik\\Vortrag\\Codebeispiele\\ParameterUebergabeBeispiele\\ParameterUebergabeBeispiele\\SwapCallByReference.cpp",
+              "RelativeToolTip": "ParameterUebergabeBeispiele\\SwapCallByReference.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:22:15.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
